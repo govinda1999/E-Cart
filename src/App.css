@@ -2,3 +2,17 @@
   background-color: #fa8a02 !important;
   margin-left: 25%;
 }
+.modal-div {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#modal {
+  background-color: white;
+}

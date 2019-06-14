@@ -168,3 +168,4 @@ export const Products = [
     ]
   }
 ];
+export const pid = 8;
